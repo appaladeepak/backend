@@ -1,6 +1,5 @@
-# Reddit-Clone-Microservices
-
-Reddit-clone is a RESTful service with a microservice architecture allowing users to store their user details with authentication, posts, and comments. 
+#Microservices
+ this is a RESTful service with a microservice architecture allowing users to store their user details with authentication, posts, and comments. 
 
 ## Technologies Used
 <li>
@@ -21,8 +20,6 @@ Reddit-clone is a RESTful service with a microservice architecture allowing user
     Javadoc
      
 
-## Pivotal Tracker
-- https://www.pivotaltracker.com/n/projects/2416905
 
 
 ## Design
