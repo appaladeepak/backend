@@ -9,7 +9,7 @@
 <li>  
   Spring-boot
  <li> 
-  Postman
+ 
  <li>
    Jenkins
   <li>
@@ -17,7 +17,7 @@
   <li>
     Swagger
   <li>
-    Javadoc
+  
      
 
 
