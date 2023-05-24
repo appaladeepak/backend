@@ -7,16 +7,14 @@
 <li>
   Docker
 <li>  
-  Spring-boot
- <li> 
- 
+  Spring-boot 
  <li>
    Jenkins
   <li>
     ELK
   <li>
     Swagger
-  <li>
+ 
   
      
 
